@@ -6,7 +6,7 @@ $(document).ready(function(){
     });
 
     $(".type-effect").typed({
-        strings: [" Software Developer" , "Frontend Developer" , "Designer"],
+        strings: [" Software Developer" , "Frontend Developer" ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
